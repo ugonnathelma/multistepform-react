@@ -1,7 +1,7 @@
 import React from 'react';
 
 // components
-import Button from './components/Button.jsx';
+import Button from './src/components/Button.jsx';
 
 class MultiStepForm extends React.Component {
   componentWillMount() {
