@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TUgonna/multistepform-react.git"
+    "url": "git+https://github.com/ugonnathelma/multistepform-react.git"
   },
   "bugs": {
-    "url": "https://github.com/TUgonna/multistepform-react/issues"
+    "url": "https://github.com/ugonnathelma/multistepform-react/issues"
   },
-  "homepage": "https://github.com/TUgonna/multistepform-react#readme"
+  "homepage": "https://github.com/ugonnathelma/multistepform-react#readme"
 }
